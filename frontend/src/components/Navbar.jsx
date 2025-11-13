@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Logo / Brand */}
         <Link to="/" className="font-bold text-lg sm:text-xl">
-          Healthcare System
+             <img src="/logo.png " className="w-8 h-8 sm:w-14 sm:h-14 rounded-md" alt="" />
         </Link>
 
         {/* Desktop Links */}
